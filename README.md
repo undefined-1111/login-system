@@ -16,4 +16,5 @@ npm i axios bcrypt colors ejs express express-flash express-session method-overr
 если вы на линуксе то:
 
 ```sh
-npm run devStart```
+npm run devStart
+```
