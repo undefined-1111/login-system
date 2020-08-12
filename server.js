@@ -129,6 +129,6 @@ function checkNotAuthenticated(req, res, next) {
     next()
 }
 
-app.listen(80, function () {
-    console.log(`Сервер запущен на 80 порте, можешь зайти по айпи`);
+app.listen(3000, function () {
+    console.log(`Сервер запущен на 3000 порте, можешь зайти по айпи`);
 });
