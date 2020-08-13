@@ -19,4 +19,8 @@ npm i axios bcrypt colors ejs express express-flash express-session method-overr
 npm run devStart
 ```
 
+## Деплой на хероку
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/undefined-1111/login-system)
+
 # [Демо](https://authlogin-undefined.herokuapp.com)
